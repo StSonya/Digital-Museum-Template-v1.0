@@ -22,9 +22,9 @@
 ## 1. Перші кроки на GitHub
 
 1. Увійдіть у свій акаунт на [github.com](https://github.com)
-2. Натисніть кнопку **«New repository»** (або своя назва латинкою без пробілів)
+2. Натисніть кнопку **«New repository»**
 3. Заповніть:
-   - **Repository name**: `museum-collection`
+   - **Repository name**: `museum-collection` (або своя назва латинкою без пробілів)
    - **Description**: «Цифрова експозиція [назва вашого музею]»
    - Оберіть **Public**
    - Поставте галочку **«Add a README file»**
