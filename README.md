@@ -1,7 +1,21 @@
 # Цифрова експозиція музею
 
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-Click%20here-brightgreen?style=for-the-badge&logo=github)](https://github.com/StSonya/museum-collection/generate)
+
 Це простий гайд для **не програмістів**.  
 Ви зможете самостійно наповнювати цифрову колекцію та оновлювати сайт.
+
+---
+
+## Як швидко розпочати
+
+1. Натисніть кнопку **"Use this template"** вище
+2. Створіть новий репозиторій
+3. Розпакуйте (або склонуйте) файли
+4. Відкрийте `README.md` і слідуйте інструкціям
+
+---
+
 
 ---
 
