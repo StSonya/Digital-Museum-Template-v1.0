@@ -22,7 +22,7 @@
 ## 1. Перші кроки на GitHub
 
 1. Увійдіть у свій акаунт на [github.com](https://github.com)
-2. Натисніть кнопку **«New repository»**
+2. Натисніть кнопку **«New repository»** (або своя назва латинкою без пробілів)
 3. Заповніть:
    - **Repository name**: `museum-collection`
    - **Description**: «Цифрова експозиція [назва вашого музею]»
